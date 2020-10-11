@@ -1,3 +1,7 @@
+Code Repository: <a target="_blank" href="https://github.com/sumanthvrao/yoga-pose-classification-system" rel="noreferrer noopener">https://github.com/sumanthvrao/yoga-pose-classification-system</a>
+
+Report: <a target="_blank" href="https://drive.google.com/file/d/1G3OAHLZMwPKEZZLB8-EPNqTczv8oK9lV/view?usp=sharing" rel="noreferrer noopener">https://github.com/sumanthvrao/yoga-pose-classification-system/report.pdf</a>
+
 # Yoga Pose Classification and Fake Pose Generation System
 
 The repository consists of source code for a yoga pose classification system and fake pose generation system built using deep learning. The goal of the project is to build a yoga pose classification system and a fake pose generation system. The long term goal of the project is to build a self-assisted yoga pose correction and training system using deep learning. Our primary motivation behind this project is the lack of availability of a good quality dataset for the development of such a system. Consequently, a yoga pose generation system can be used to build a large, good quality dataset of fake as well as real poses.
@@ -21,9 +25,8 @@ the latent space, fake poses are obtained.
 5. matplotlib
 
 ## Dependencies
-The codebase requires developers to specify the paths for the datasets. 
+The codebase requires developers to specify the paths for the datasets.
 
 ## Team
-
 Tejas Prashanth
 Sumanth V Rao
