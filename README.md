@@ -17,8 +17,13 @@ the latent space, fake poses are obtained.
 1. Python
 2. Keras & Tensorflow
 3. sklearn
-4. Pandas,Numpy
+4. Pandas, Numpy
 5. matplotlib
 
 ## Dependencies
 The codebase requires developers to specify the paths for the datasets. 
+
+## Team
+
+Tejas Prashanth
+Sumanth V Rao
